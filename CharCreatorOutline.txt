@@ -1,0 +1,9 @@
+Goals:
+
+Outline (Using old matlab program as base?)
+Initial config and core draft
+Important table references/misc helpful utilities
+Built in suggestions (By class/role?)
+Guarantee multiclass and prestige class support.
+Adaptable modules for non core material (External data entry program?)
+Implement non core books in order of importance. (Spell compendium, complete X, Tome of battle/magic, Campaign setting books, etc)
